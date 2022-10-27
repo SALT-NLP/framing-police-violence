@@ -1,0 +1,1 @@
+Lexicons were created by the authors to reflect the most basic, unambiguous terms used to denote race and gender in journalistic writing. However, these lexicons could (and possibly should) be expanded in future work.

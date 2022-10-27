@@ -1,0 +1,302 @@
+#########################################################################
+# List of legal terms
+# extracted from:
+# https://www.uscourts.gov/glossary
+# http://www.eflnet.com/vocab/wordlists/law_and_order
+#########################################################################
+
+accomplice
+acquit
+acquittal
+active judge
+adjourn
+administrative office of the united states courts
+admissible
+adversary proceeding
+affidavit
+affirmed
+alibi
+alternate juror
+alternative dispute resolution
+amicus curiae
+amnesty
+appellant
+appellate
+appellee
+arbitration
+arbitrator
+arraign
+arraignment
+article iii judge
+assault
+assets
+attorney
+automatic stay
+bad faith
+badge
+bail
+bail bond
+bailiff
+bankruptcy
+bankruptcy administrator
+bankruptcy code
+bankruptcy court
+bankruptcy estate
+bankruptcy judge
+bankruptcy petition
+bankruptcy trustee
+bench trial
+burden of proof
+business bankruptcy
+capital offense
+case file
+case law
+caseload
+cause of action
+chambers
+chapter 11
+chapter 12
+chapter 13
+chapter 13 trustee
+chapter 15
+chapter 7
+chapter 7 trustee
+chapter 9
+chief judge
+civil
+class action
+clerk of court
+collateral
+collusion
+commit
+common law
+community service
+concurrent sentence
+conjecture
+consecutive sentence
+conspiracy
+consumer bankruptcy
+consumer debts
+contempt
+contingent claim
+contract
+conviction
+counsel
+court
+court reporter
+credit counseling
+creditor
+crime
+criminal
+de facto
+de jure
+de novo
+debtor
+declaratory judgment
+decriminalization
+default judgment
+defendant
+defense attorney
+defraud
+deliberate
+deposition
+detective
+disbar
+discharge
+dischargeable debt
+disclosure statement
+dismissal with prejudice
+dismissal without prejudice
+disposable income
+district attorney
+docket
+due process
+en banc
+entrap
+entrapment
+equitable
+equity
+evidence
+ex parte
+exclusionary rule
+exculpatory evidence
+executory contracts
+exempt assets
+exemptions exempt property
+extort
+extortion
+face sheet filing
+family farmer
+federal public defender
+federal public defender organization
+federal question jurisdiction
+felony
+fingerprint
+first-degree murder
+forensic
+fraud
+fraudulent transfer
+fresh start
+gag order
+gavel
+grand jury
+habeas corpus
+handcuff
+hearsay
+home confinement
+hung jury
+immaterial
+immunity
+impeachment
+in forma pauperis
+inculpatory evidence
+indictment
+injunction
+inquest
+insider of corporate debtor
+insider of individual debtor
+interrogatories
+investigate
+investigator
+investigators
+investigated
+investigation
+jail
+joint administration
+joint petition
+judge
+judgeship
+judgment
+judicial conference of the united states
+jurisdiction
+jurisprudence
+jury
+jury box
+jury instructions
+justice
+larceny
+lawsuit
+lawyer
+libel
+lien
+liquidated claim
+liquidation
+litigant
+litigation
+magistrate judge
+malice
+mandate
+manslaughter
+means test
+mediation
+mental health treatment
+misdemeanor
+mistrial
+motion in limine
+motion to lift the automatic stay
+nightstick
+no-asset case
+nolo contendere
+nondischargeable debt
+nonexempt assets
+objection to dischargeability
+objection to exemptions
+oral argument
+paralegal
+parole
+party in interest
+penal
+penal code
+per curiam
+peremptory challenge
+perjury
+petit jury or trial jury
+petition
+petition preparer
+petty offense
+plaintiff
+plea
+plea bargain
+plead
+pleadings
+polygraph
+postpetition transfer
+prebankruptcy planning
+precedent
+preferential debt payment
+presentence report
+pretrial conference
+pretrial services
+priority claim
+prison
+pro per
+pro se
+pro tem
+probable cause
+probation
+probation officer
+procedure
+proof of claim
+property of the estate
+prosecute
+prosecution
+prosecutor
+proviso
+public defender
+reaffirmation agreement
+rebuttal
+recusal
+recuse
+redemption
+remand
+retainer
+sanction
+second-degree murder
+secured creditor
+secured debt
+senior judge
+sentencing guidelines
+sequester
+service of process
+settlement
+sidebar
+slander
+small business case
+standard of proof
+statement of financial affairs
+statement of intention
+statute
+statute of limitations
+sua sponte
+subordination
+subpoena
+subpoena duces tecum
+summons
+supreme court
+suspect
+temporary restraining order
+testify
+testimony
+toll
+tort
+transcript
+trial
+trustee
+typing service
+u.s. attorney
+u.s. trustee
+undersecured claim
+undue hardship
+unlawful detainer action
+unliquidated claim
+unscheduled debt
+unsecured claim
+verdict
+voir dire
+voluntary transfer
+wage garnishment
+warrant
+witness
+witness stand
+writ
+writ of certiorari

@@ -1,0 +1,64 @@
+#########################################################################
+# List of crime
+# extracted from nytimes empath using seed ["steal", "crime", "arson", "trafficking", "abuse", "warrant"]
+# expanded using: https://ieltsliz.com/crime-and-punishment-vocabulary/
+#########################################################################
+
+abduct
+abduction
+abuse
+apprehend
+apprehended
+arson
+assault
+break into
+breaking into
+broke into
+burglary
+burgle
+cocaine
+crack
+crime
+criminal
+drug deal
+drug dealing
+drunk drive
+drunk driving
+fraud
+guilty
+homicide
+kidnapping
+manslaughter
+misdemeanor
+misdemeanors
+molest
+molestation
+molested
+offended
+offender
+perpetrate
+perpetrators
+pick pocket
+prostitute
+prostitution
+warrant
+rape
+rapist
+rob
+robbed
+robbery
+sex crime
+sex crimes
+shoplift
+shoplifted
+shoplifting
+speeding
+stole
+stolen
+theft
+thefts
+thief
+trafficking
+trespassing
+vandal
+vandalism

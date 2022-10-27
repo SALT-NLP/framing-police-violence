@@ -1,0 +1,2 @@
+`media-bias-scrubbed-results.csv` pulled from https://gist.github.com/nsfyn55/605783ac8de36f361fb10ef187272113
+`media-bias-fc-scrape.csv` pulled from https://gist.github.com/nsfyn55/67ffe904b65ed2243d09c0d4bdc4c9ca

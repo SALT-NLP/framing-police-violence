@@ -1,0 +1,6 @@
+man
+boy
+son
+father
+brother
+male
